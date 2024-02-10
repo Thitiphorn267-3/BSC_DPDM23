@@ -1,5 +1,6 @@
 # BSC_DPDM23
 Data Preparation and Data Mining 
+ธิติพร หิงพุดซา 643021267-3
 
 # Score
 -Midterm (Data Prepocessing)ปฏิบัติ (เดี่ยว)20%
