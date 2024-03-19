@@ -15,4 +15,8 @@ HW1 ==> https://github.com/Thitiphorn267-3/BSC_DPDM23/blob/main/Frequent_Pattern
 
 HW2 ==> https://github.com/Thitiphorn267-3/BSC_DPDM23/blob/main/HW2.pdf
 
-HW3 ==>
+HW3 ==> https://github.com/Thitiphorn267-3/BSC_DPDM23/blob/main/Classification.ipynb
+
+HW4 ==> https://github.com/Thitiphorn267-3/BSC_DPDM23/blob/main/Hw4.pdf
+
+HW5 ==> https://github.com/Thitiphorn267-3/BSC_DPDM23/blob/main/Hw5.pdf
