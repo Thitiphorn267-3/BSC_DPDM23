@@ -9,3 +9,10 @@ Data Preparation and Data Mining
 - Homework (แบ่งกลุ่มใหม่ทุกครั้ง)20%
 - Quiz (เดี่ยว ถามในห้อง) 5%
 - Github 5%
+
+#การบ้าน
+HW1 ==> https://github.com/Thitiphorn267-3/BSC_DPDM23/blob/main/Frequent_Patterns_(Association_Rules).ipynb
+
+HW2 ==> https://github.com/Thitiphorn267-3/BSC_DPDM23/blob/main/HW2.pdf
+
+HW3 ==>
