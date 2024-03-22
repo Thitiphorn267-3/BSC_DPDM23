@@ -20,3 +20,6 @@ HW3 ==> https://github.com/Thitiphorn267-3/BSC_DPDM23/blob/main/Classification.i
 HW4 ==> https://github.com/Thitiphorn267-3/BSC_DPDM23/blob/main/Hw4.pdf
 
 HW5 ==> https://github.com/Thitiphorn267-3/BSC_DPDM23/blob/main/Hw5.pdf
+
+#Final Project
+https://github.com/Thitiphorn267-3/BSC_DPDM23/blob/main/Project.ipynb
